@@ -46,7 +46,7 @@ header {
 
 .nav a:hover {
     border-bottom: 3px solid #0DB7AF;
-    margin-bottom: -30px;
+    margin-bottom: -32px;
 }
 
 .nav a sup {
@@ -81,6 +81,7 @@ header {
     border: none;
     padding-left: 10px;
     border-radius: 0 4px 4px 0;
+    outline: none;
 }
 
 .actions {
